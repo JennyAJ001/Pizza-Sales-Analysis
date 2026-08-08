@@ -20,10 +20,21 @@ recommendations on optimizing returns by minimizing withdrawals or liquidations.
 transforming the raw dataset into a structured format suitable for analysis.
 - PivotTable: for analysis and visualization
 
-## Dataset Overview
-columns: pizza_id order_id	pizza_name_id	quantity	
-order_date	order_time	unit_price	total_price	pizza_size	
-pizza_category	pizza_ingredients	pizza_name
+## Dataset Description
+The dataset contains information about pizza orders and sales.
+The dataset includes information such as:
+- pizza_id
+- order_id
+- pizza_name_id
+- quantity
+- order_date
+- order_time
+- unit_price
+- total_price
+- pizza_size
+- pizza_category
+- pizza_ingredients
+- pizza_name
 
 
 ## Data Source
