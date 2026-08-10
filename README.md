@@ -1,19 +1,22 @@
 # Pizza-Sales-Analysis
 
+
+## Table of Content
+- [Pizza Sales Analysis overview](#pizza-sales-analysis-overview)
+- [Tools Used](#tools-used)
+- [Dataset Description](#dataset-description)
+- [Data Source](#data-source)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Data Analysis & Visualization](#data-analysis--visualization)
+
 ## Pizza Sales Analysis Overview
-This report presents a comprehensive analysis of my husband's money 
+This report presents a comprehensive analysis of a Pizza Sales Analysis 
 market investment with AXA Mansard from 2019 to 2024, based on the provided dataset. 
 The primary objective of this analysis is to track deposits, liquidations, and profits 
 generated from the money market investment. By examining these financial activities, 
 this report aims to provide clearer insights into investment performance and offer strategic 
 recommendations on optimizing returns by minimizing withdrawals or liquidations.
-
-## Table of Content
-- overview
-- data processing
-- data cleaning
-- pivot table
-- analysis
 
 ## Tools Used
 - Microsoft Excel: Microsoft Excel: This was used for initial data loading and cleaning,
@@ -36,12 +39,12 @@ The dataset includes information such as:
 - pizza_ingredients
 - pizza_name
 
-
 ## Data Source
   This dataset was gotten from kaggle. dataset link
   below is the screenshot of the raw dataset
+  <img width="1343" height="644" alt="image" src="https://github.com/user-attachments/assets/445fb84f-093d-41a9-8904-54a935bc43df" />
 
-## Data Cleaning and Preparation
+## Data Cleaning & Preparation
 
 - ### Duplicating the Dataset
 Before making any changes to the dataset, a duplicate copy was created.
@@ -107,4 +110,7 @@ screenshot of the cleaned dataset
 - Data visualization  - Dashboard development
 - Business insight generation
 
-## Data Analysis and Visualization
+## Data Analysis & Visualization
+below is a screenshot of the dashboard
+<img width="1333" height="577" alt="image" src="https://github.com/user-attachments/assets/ed49e009-09da-4d5f-b7e4-e70ad497183e" />
+
